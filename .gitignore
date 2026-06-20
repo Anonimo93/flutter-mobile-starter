@@ -1,0 +1,8 @@
+*.iml
+.idea/
+.vscode/
+flutter/
+build/
+*.dart_tool/
+.packages
+.pub/
